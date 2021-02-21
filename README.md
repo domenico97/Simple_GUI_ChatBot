@@ -34,6 +34,14 @@ Per installare ntlk:
 pip install nltk
  ```
 
+Se si riscontra un errore durante la prima esecuzione, bisogna anche eseguire l'installazione `nltk.tokenize.punkt`:
+Esegui queste istruzioni nel terminale:
+ ```console
+$ python
+>>> import nltk
+>>> nltk.download('punkt')
+```
+
 ## Utilizzo
 Run
 ```console
