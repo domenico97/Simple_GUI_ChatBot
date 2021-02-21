@@ -23,4 +23,8 @@ Per creare un environment con una specifica versione di Python:
 
 ### Installare PyTorch e le dipendenze
 Per l'installazione di PyTorch [sito ufficiale] (https://pytorch.org/).
+Per installare ntlk: 
+```console
+pip install nltk
+ ```
   
