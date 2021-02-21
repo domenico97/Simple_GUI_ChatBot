@@ -7,11 +7,11 @@ Semplice implementazione di un chatbot con PyTorch.
 - L'implementazione utilizza una semplice rete neurale Feed Forward con solo 2 Hidden layer.
 - L'esempio è molto personalizzabile. Basta modificare `intents.json` con possibili modelli e risposte e rieseguire l'addestramento (vedi sotto per maggiori informazioni).
 - Viene fornita una GUI semplice per l'interazione con il ChatBot. 
-    [![Alt text](GUI ChatBot image)](https://www.youtube.com/watch?v=RpWeNzfSUHw&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
+    [![Alt text](GUI ChatBot image)](https://drive.google.com/file/d/17fLeuNEMz9QLgbN1mzGfy9ODgIltaLOG/view?usp=sharing)
 
 
 
-Questo approccio è insipirato al seguente articolo: [https://drive.google.com/file/d/17fLeuNEMz9QLgbN1mzGfy9ODgIltaLOG/view?usp=sharing](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077).
+Questo approccio è insipirato al seguente articolo: [https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077).
 
 ## Installazione
 
