@@ -21,7 +21,9 @@ Per creare un environment con una specifica versione di Python:
   ```
   
 ### Attivare l'environment
-
+ ```console 
+ conda activate myenv
+   ```
 
 ### Installare PyTorch e le dipendenze
 Per l'installazione di PyTorch [sito ufficiale] (https://pytorch.org/).
