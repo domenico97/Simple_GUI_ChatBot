@@ -33,4 +33,16 @@ Per installare ntlk:
 ```console
 pip install nltk
  ```
-  
+
+## Utilizzo
+Run
+```console
+python train.py
+```
+Questo porterà alla creazione del file `data.pth`. Dopodiché eseguire questo ulteriore comando:
+```console
+python chat.py
+```
+
+## Note 
+Nel caso venga modificato il file `intents.json` sarà necessario rieffettuare il training. Modificando tale file sarà possibile creare un chatbot personalizzato per uno specifico caso d'uso.
