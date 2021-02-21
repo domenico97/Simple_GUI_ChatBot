@@ -16,7 +16,7 @@ Questo approccio è insipirato al seguente articolo: [https://chatbotsmagazine.c
 ## Installazione
 
 ### Creare un environment
-Qualunque cosa tu preferisca (ad esempio "conda" o "venv")
+Qualunque cosa tu preferisca (ad esempio "conda")
 Per creare un environment con una specifica versione di Python:
   ```console 
   conda create -n myenv python=3.7 
