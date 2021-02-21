@@ -41,7 +41,7 @@ python train.py
 ```
 Questo porterà alla creazione del file `data.pth`. Dopodiché eseguire questo ulteriore comando:
 ```console
-python chat.py
+python chatGUI.py
 ```
 
 ## Note 
